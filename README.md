@@ -23,5 +23,5 @@ This repo is a list of ideas / projects to do on a Raspberry Pi
 - SPI SD-Card to boot from SD1 instead of SD0 ([post question][1])
 - [Build micropython][2] for 6502 project
 
-[2]: micropython/README.md
+[2]: micropython#readme
 [1]: https://forums.raspberrypi.com/viewtopic.php?t=358559
