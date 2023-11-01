@@ -30,8 +30,6 @@ This repo is a list of ideas / projects to do on a Raspberry Pi
 - SPI SD-Card to boot from SD1 instead of SD0 ([post question][1])
 - [Build micropython][2] for 6502 project
 
-[8]: https://www.youtube.com/watch?v=zGF_HaSdFyA Win11WoR
-[7]: https://www.youtube.com/watch?v=JPRUbGIyODY Win10IoT
 [6]: diskless#readme
 [5]: g_ether#readme
 [4]: https://www.xmodulo.com/internet-connection-sharing-iptables-linux.html
