@@ -18,10 +18,23 @@ This repo is a list of ideas / projects to do on a Raspberry Pi
 - [ ] piDaisy - Pi1Br2->Pico(spi); Pi1Br2->Pi0r1W(i2c); Pi1Br2->ODroid(g_ether/serial/ether);
 - [ ] Build vasm for 6502 project
 - [ ] Build burn utility for 6502 project
+- [ ] Install micropython default script (main.py) then break into it via serial.
+- [ ] Set hardware-ids on g_ether modulule parameters to remove floating IPs
+- [ ] Combine [g_ether][5], [ICS][5], and rootnfs to make a [diskless boot][6]
+- [ ] Combine [g_ether][5], [rpiboot][6], [ICS][5], and net_install boot.img to do a network install on PiZero
+- [ ] Perform a [Win10 IoT][7] install to run powershell on a Pi2/Pi3
+- [ ] Install [Win11 on 4GB Pi4][8]
 
 ## Fleshed out
+- [Share usb0 internet][5] connection through PC, see linux guides ([arch][3], [xmodulo][4])
 - SPI SD-Card to boot from SD1 instead of SD0 ([post question][1])
 - [Build micropython][2] for 6502 project
 
+[8]: https://www.youtube.com/watch?v=zGF_HaSdFyA Win11WoR
+[7]: https://www.youtube.com/watch?v=JPRUbGIyODY Win10IoT
+[6]: diskless#readme
+[5]: g_ether#readme
+[4]: https://www.xmodulo.com/internet-connection-sharing-iptables-linux.html
+[3]: https://wiki.archlinux.org/title/Internet_sharing
 [2]: micropython#readme
 [1]: https://forums.raspberrypi.com/viewtopic.php?t=358559
