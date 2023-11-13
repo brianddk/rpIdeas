@@ -73,7 +73,7 @@ This repo is a list of ideas / projects to do on a Raspberry Pi
 [x]: https://www.amazon.com/dp/B00LX3V7F0
 [y]: https://forums.raspberrypi.com//viewtopic.php?f=65&t=166853&p=1075093&hilit=time+lapse#p1074313
 [z]: wifi-nfs#readme
-[u]: arch#readme
+[u]: arch#readme (needs copy-edit)
 
 <!-- Next = 10,11,12,13 -->
 
@@ -92,5 +92,5 @@ This repo is a list of ideas / projects to do on a Raspberry Pi
 [3]: https://wiki.archlinux.org/title/Internet_sharing
 [2]: micropython#readme
 [1]: https://forums.raspberrypi.com/viewtopic.php?t=358559
-[v]: gentoo#readme
+[v]: gentoo#readme (needs copy-edit)
 [w]: initramfs#readme
