@@ -47,7 +47,7 @@ This repo is a list of ideas / projects to do on a Raspberry Pi
 - [ ] Try [adding a disk to WSL2][t] and perform LFS on it.
 - [ ] [RTC for Pi][x] with a [wake alarm][y]
 - [ ] [WiFi NFS Boot][z]
-- [ ] [Install Arch][u]
+- [ ] [Install Arch][u] (needs copy-edit)
 
 [9]: https://joeferguson.me/adding-another-disk-to-wsl2/
 [a]: https://www.reddit.com/r/linuxfromscratch/comments/vtgu3h/can_i_create_lfs_using_wsl/
@@ -73,7 +73,7 @@ This repo is a list of ideas / projects to do on a Raspberry Pi
 [x]: https://www.amazon.com/dp/B00LX3V7F0
 [y]: https://forums.raspberrypi.com//viewtopic.php?f=65&t=166853&p=1075093&hilit=time+lapse#p1074313
 [z]: wifi-nfs#readme
-[u]: arch#readme (needs copy-edit)
+[u]: arch#readme
 
 <!-- Next = 10,11,12,13 -->
 
@@ -81,7 +81,7 @@ This repo is a list of ideas / projects to do on a Raspberry Pi
 - [Share usb0 internet][5] connection through PC, see linux guides ([arch][3], [xmodulo][4])
 - SPI SD-Card to boot from SD1 instead of SD0 ([post question][1])
 - [Build micropython][2] for 6502 project
-- [Install Gentoo][v]
+- [Install Gentoo][v] (needs copy-edit)
 - [Make InitRamFS install][w]
 
 [8]: https://www.youtube.com/watch?v=zGF_HaSdFyA "Win11WoR"
@@ -92,5 +92,5 @@ This repo is a list of ideas / projects to do on a Raspberry Pi
 [3]: https://wiki.archlinux.org/title/Internet_sharing
 [2]: micropython#readme
 [1]: https://forums.raspberrypi.com/viewtopic.php?t=358559
-[v]: gentoo#readme (needs copy-edit)
+[v]: gentoo#readme
 [w]: initramfs#readme
